@@ -54,8 +54,8 @@ I Made this projects with HTML5 and SASS!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-html-sass-K0RhyuwFtq)
+- Live Site URL: [Live Site URL here](https://huddle-landing-page-with-single-introductory-section-three-chi.vercel.app/)
 
 ## Author
 
